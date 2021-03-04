@@ -332,30 +332,9 @@ margin-top: 60px;
   text-decoration: none;
 }
 
-.footer__column-links {
-  margin: 20px 0 16px 0;
-  color: #FFFFFF;
-  padding: 0;
-  cursor: pointer;
-}
-
 .footer__column_social-icon {
   width: 16px;
   height: 16px;
   margin: 0px 10px 0px 0px;
   text-decoration: none;
-}
-
-/* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
-
-/* и элемента с модификатором вида ключ-значение */
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
 }
