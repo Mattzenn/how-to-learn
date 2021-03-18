@@ -10,7 +10,6 @@
   top: 0;
   right: -210px;
   z-index: 1;
-  overflow: hidden;
   transform: rotate(360deg);
   animation: rotation linear 20s infinite;
 }
