@@ -1,0 +1,8 @@
+.cards__item {
+  width: 240px;
+  margin-top: 60px;
+}
+  
+.cards__item:first-of-type { 
+  margin-left: 0px;
+}

@@ -1,0 +1,7 @@
+.table_theme_dark {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  color: white;
+  z-index: 2;
+}
