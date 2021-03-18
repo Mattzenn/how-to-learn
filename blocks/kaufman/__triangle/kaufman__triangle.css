@@ -11,5 +11,4 @@
   right: -210px;
   z-index: 1;
   transform: rotate(360deg);
-  animation: rotation linear 20s infinite;
 }

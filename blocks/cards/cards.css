@@ -2,7 +2,7 @@
   width: 920px;
   display: grid;
   grid-template-columns: repeat(3, 240px);
-  margin: 60px auto 100px auto;
+  margin: 0 auto;
   justify-content: center;
   grid-column-gap: 100px;
   grid-row-gap: 60px;
