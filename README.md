@@ -18,4 +18,4 @@
 
 ## Технологии:
 
-Технологии: HTML и CSS (Flexbox, Positioning Elements, Grid, Animation and Transform using CSS, Iframe), BEM Methodology, GIT.
+HTML и CSS (Flexbox, Positioning Elements, Grid, Animation and Transform using CSS, Iframe), BEM Methodology, GIT.
