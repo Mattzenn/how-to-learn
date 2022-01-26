@@ -10,7 +10,7 @@
 Данная страница описывает разлиные эффективные подходы к обучению, которые каждый может использовать в совей жизни.
 На страницы рассматриваются различные техники обучения: пять практик от Барбары Оакли, видео нa TED, метод Фейнмана, методика Салмана Хана, принципы обучения от Джоша Кауфмана. 
 
-[Размещение front на сервере](https://mattzenn.github.io/how-to-learn/)
+[Размещение проекта на сервере](https://mattzenn.github.io/how-to-learn/)
 
 ## Функционал:
 
@@ -18,4 +18,7 @@
 
 ## Технологии:
 
-HTML и CSS (Flexbox, Positioning Elements, Grid, Animation and Transform using CSS, Iframe), BEM Methodology, GIT.
+* HTML 
+* CSS (Flexbox, Positioning Elements, Grid, Animation and Transform using CSS, Iframe)
+* BEM Methodology
+* GIT
