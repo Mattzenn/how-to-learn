@@ -5,7 +5,7 @@
 
 ## Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/).
 
-### Ссылка на сайт размещенный на сервере: https://mattzenn.github.io/how-to-learn/
+### Ссылка на сайт: https://mattzenn.github.io/how-to-learn/
 
 ## Описание:
 
