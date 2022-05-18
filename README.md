@@ -1,6 +1,3 @@
-
-
-
 # Проектная работа: "How to learn".
 
 ## Создана в рамках учебы в [Яндекс.Практикум](https://praktikum.yandex.ru/) на курсе ["Веб-разработчик"](https://praktikum.yandex.ru/web/).
